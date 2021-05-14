@@ -9,4 +9,4 @@ Experimented various Neural Machine translation models for hindi to english tran
 - phase 4 - implemented transformer model with beam search for inference
 
 
-Results of all phases are shown in final report - 
+Results of all phases are shown in final [report](report.pdf)
